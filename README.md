@@ -8,3 +8,4 @@ Debian based: apt install beep
 modprobe -r pcspkr && modprobe pcspkr
 -go back to your user, download the bash script, and change the IP for the one your need to monitor when it's back
 exit
+ 
