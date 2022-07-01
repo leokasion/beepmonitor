@@ -10,6 +10,6 @@ Debian based: apt install beep
 -remove current speaker module and make sure to install the correct one
 modprobe -r pcspkr && modprobe pcspkr
 
--go back to your user, download the bash script, and change the IP for the one your need to monitor when it's back
+-go back to your user, download the bash script, change the example IP 5.3.7.9 for the IP you want the script to start the beeps when it responds, and finallly chmod it as executable
 exit
- 
+chmod +x monitor.sh
