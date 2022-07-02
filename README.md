@@ -14,7 +14,10 @@ INSTALLATION
   
   modprobe -r pcspkr && modprobe pcspkr
 
--go back to your user, download the bash script, change the example IP 5.3.7.9 for the IP you want the script to start the beeps when it responds, and finallly chmod it as executable
+-go back to your user, download the bash script, change the example IP 5.3.7.9 for the IP you want the script to start the beeps when it responds 
   
   exit
+  
+-finallly chmod it as executable
+  
   chmod +x monitor.sh
