@@ -1,7 +1,6 @@
 INSTALLATION
 
 -root will be need in order to make sure the correct speaker module it's installed
-
 sudo su
 
 -download and install beep from your system packages (https://linux.die.net/man/1/beep)
