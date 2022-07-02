@@ -7,6 +7,7 @@ INSTALLATION
 -download and install beep from your system packages (https://linux.die.net/man/1/beep)
   
   Arch based: yes | pacman -S beep
+  
   Debian based: apt install beep
 
 -remove current speaker module and make sure to install the correct one
